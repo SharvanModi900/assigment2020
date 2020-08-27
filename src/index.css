@@ -1,0 +1,13 @@
+.responsevetab{
+  height:200vh;
+}
+
+@media screen 
+  and (min-width: 320px) ,
+   (max-width: 720px) 
+   { 
+  .responsevetab{
+    height:200px;
+   
+  }
+}
